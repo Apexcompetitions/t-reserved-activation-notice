@@ -1,1 +1,1 @@
-# t-waitlist-entry-available
+# t-reserved-activation-notice
